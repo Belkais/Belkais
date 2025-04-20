@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! I'm Ahlem 👋
 
-<!--
-**Belkais/Belkais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🤖 Part-time human, full-time AI whisperer  
+> 📊 Data talks, I listen (and sometimes argue back)  
+> 📱 Fluttering while my models overfit in the background   
+> ... Still waiting for my neural network to love me back.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- 🧬 AI & Machine Learning
+- 📊 Data Science & Analytics
+- 📱 Flutter App Development
+- 🧪 Playing with neural networks 
+- 💡 Turning IZEM into ML experiments and weird clean UI
+
+---
+
+
+## 💬 Let's connect
+
+[![LinkedIn](https://www.linkedin.com/in/ahlem-taibi-6bb02232b/)
+[![Email](taibiahlemmm@gmail.com)
+
+
+---
+
+_“Life’s too short for bad UI and untrained models.”_ 🧃
