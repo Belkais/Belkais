@@ -20,8 +20,8 @@
 
 ## 💬 Let's connect
 
-[![LinkedIn](https://www.linkedin.com/in/ahlem-taibi-6bb02232b/)
-[![Email](taibiahlemmm@gmail.com)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ahlem-taibi-6bb02232b/)
+
 
 
 ---
