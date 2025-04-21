@@ -12,7 +12,7 @@
 - 🧬 AI & Machine Learning
 - 📊 Data Science & Analytics
 - 📱 Flutter App Development
-- 🧪 Playing with neural networks 
+- 🧼 Professional at rerunning Colab cells after runtime disconnects
 - 💡 Turning IZEM into ML experiments and weird clean UI
 
 ---
